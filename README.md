@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Valmont from Bourges<br><br>- 🔭 I’m working as developer for alximy</p>
+<p align="left">I'm Valmont from Bourges, France<br><br>- 🔭 I’m working as developer PHP/Symfony for alximy</p>
 
 ###
 
