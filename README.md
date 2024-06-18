@@ -1,21 +1,8 @@
 <div align="center">
-  <img height="150" src="https://media1.giphy.com/media/vjZkgd6XlhPHSZgQNY/200.gif?cid=790b76115f4yvmi9e07kuce6x75mnnr5qkl1l7adumq8uhen&rid=200.gif&ct=g"  />
-</div>
-
-###
-
-<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Valmonzo.Valmonzo&"  />
   <a href="https://www.linkedin.com/in/valmontpp/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Valmonzo.Valmonzo&"  />
 </div>
 
 ###
