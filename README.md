@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Valmont <br><br>🔭 I’m currently working on Symfony, Api Platform & Nuxt<br>🌱 I’m currently learning Go <br>💬 I'm preparing some talks about many subjects
+Hi, I'm Valmont <br><br>🔭 I’m currently working on Symfony, Api Platform & Nuxt<br>🌱 I’m currently learning Go <br>💬 I'm preparing some talks about many subjects, and the Symfony 7 certification
 
 
 ## 🌐 Socials:
